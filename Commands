@@ -1,0 +1,18 @@
+/b <id> = ban
+/k <id> = kick
+/p <id> = give leader of room to person
+/g <alias> = get id of alias
+
+Example: 
+/g all // gets ids of everyone in room
+/k 2 // kicks the person with id 2
+/p 3 // passes leader to id 3
+/b 4 // bans id 4
+/g Tony // gets id of Tony or everyone that has tony in the name
+
+
+
+//TODO
+
+Fix ban
+Add different privacy levels of rooms
